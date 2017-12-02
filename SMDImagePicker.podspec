@@ -9,16 +9,16 @@ Pod::Spec.new do |s|
                    DESC
 
   s.homepage = "https://github.com/gajjartejas/SMDSelectiveBlurImageView"
-  s.screenshots = "https://github.com/gajjartejas/SMDImagePicker/blob/master/Screenshots/logo.png?raw=true"
+  s.screenshots = "https://github.com/gajjartejas/SMDSelectiveBlurImageView/blob/master/Images/animation.gif?raw=true"
 
   s.license = { :type => "MIT", :file => "LICENSE" }
 
   s.author = { "gajjartejas" => "gajjartejas26@gmail.com" }
   s.social_media_url = "https://twitter.com/gajjartejas"
 
-  s.platform = :ios, '8.0'
+  s.platform = :ios, '9.0'
   s.source = {
-    :git => "https://github.com/gajjartejas/SMDImagePicker.git",
+    :git => "https://github.com/gajjartejas/SMDSelectiveBlurImageView.git",
     :tag => "v#{s.version.to_s}"
   }
 
