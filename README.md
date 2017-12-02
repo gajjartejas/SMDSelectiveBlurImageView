@@ -10,7 +10,7 @@
 A Clouser based UIImagePickerController wrapper in Swift.
 ***
 
-[![](Screenshots/1.png)](Images/animation.gif)
+![SMDSelectiveBlurImageView](Images/animation.gif)
 
 ## Demo
 
