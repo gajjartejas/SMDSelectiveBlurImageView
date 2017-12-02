@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
     :tag => "v#{s.version.to_s}"
   }
 
-  s.source_files = "SMDImagePicker", "SMDImagePicker/**/*.swift"
+  s.source_files = "SMDSelectiveBlurImageView", "SMDSelectiveBlurImageView/**/*.swift"
   s.requires_arc = true
 
 end
