@@ -1,6 +1,6 @@
 # SMDSelectiveBlurImageView
 
-![SMDSelectiveBlurImageView](Screenshots/logo.png)
+![SMDSelectiveBlurImageView](Images/logo.png)
 
 [![Twitter: @gajjartejas](http://img.shields.io/badge/contact-%40gajjartejas-70a1fb.svg?style=flat)](https://twitter.com/gajjartejas)
 [![License: MIT](http://img.shields.io/badge/license-MIT-70a1fb.svg?style=flat)](https://github.com/gajjartejas/SMDSelectiveBlurImageView/blob/master/README.md)
@@ -10,7 +10,7 @@
 A Clouser based UIImagePickerController wrapper in Swift.
 ***
 
-[![](Screenshots/1.png)](Screenshots/animation.gif)
+[![](Screenshots/1.png)](Images/animation.gif)
 
 ## Demo
 
