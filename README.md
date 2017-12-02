@@ -7,7 +7,7 @@
 [![Version](http://img.shields.io/badge/version-0.1.0-green.svg?style=flat)](https://github.com/gajjartejas/SMDSelectiveBlurImageView)
 [![Cocoapods](http://img.shields.io/badge/Cocoapods-available-green.svg?style=flat)](http://cocoadocs.org/docsets/SMDSelectiveBlurImageView/)
 
-A Clouser based UIImagePickerController wrapper in Swift.
+UIImageView with tap to blur feature in swift.
 ***
 
 ![SMDSelectiveBlurImageView](Images/animation.gif)
